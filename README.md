@@ -1,11 +1,21 @@
-#Dev_Note
-The game's theme is space Invasion! The player gets to be a space ship with laser beams shooting aliens. Player collects powerUps to earn points and health. Laser beams are my first custom feature. Laser Beam object collide with all other objects of type scrollable, but only result in an immediate change once it collide with Avoid objects, in this case it's the aliens. Laser beams have a capacity that can be replenished by collecting tokens (RareGets). Tokens don't regenerate health unless the player is about to lose (HP < 3). The second feature is a new rule: game speeds up gradually for each increment of 10 to the alienScore (Number of aliens shot), making the game more difficult as it progresses. The player needs to earn a score of 2000 to win. As a player, you have a choice of whether to play safe and collect power-ups (Gets and RareGets) and not shoot aliens (Slower version), or you can start shooting rampantly and make the game more difficult but be able to win faster (Or lose faster hehe). It gets very difficult very quickly. 
+**🚀 Dev Note: Space Invasion Odyssey 🌌**
 
-Sources for borrowed assets:
-https://flyclipart.com/download-png#image-586005.png
-https://www.pinclipart.com/pindetail/TxTRRw_clipart-token-png-download/
-https://pngset.com/transparent-png#tsckx
-https://www.subpng.com/png-3bgbye/download.html
-https://www.vecteezy.com/vector-art/1910477-flat-colorful-space-with-rocket-background
-https://twinsdaily.com/gallery/image/239-winner/
-https://giphy.com/gifs/hyperrpg-reaction-mrw-bfd-jVFtLpZuqiGk7Y5E0o
+Dive into the cosmic realm of **Space Invasion!** 🌠
+
+**🛸 Role:** You're the captain of a spaceship, armed with laser beams, defending the universe against alien invaders.
+
+**🔥 Features:**
+
+**Laser Beams: **Your primary weapon! These beams interact with all scrollable objects but unleash their true power against the "Avoid" objects - the menacing aliens.
+**Power-Ups: **Collect these to boost your score and health. But remember, tokens (RareGets) only regenerate health when you're on the brink of defeat (HP < 3).
+**Adaptive Difficulty: **For every 10 aliens you defeat, the game's pace intensifies, challenging your reflexes and strategies.
+**Victory Goal: **Achieve a cosmic score of 2000 to claim victory!
+
+**🎮 Strategy:**
+
+Play it safe, gather power-ups, and avoid confrontations for a steady journey.
+Or, go guns blazing, ramp up the difficulty, and either win faster or face a swift defeat. The universe's fate is in your hands!
+
+**📢 Heads Up:** The challenge escalates rapidly. Brace yourself!
+
+**🎨 Asset Credits:**
